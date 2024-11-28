@@ -1,1 +1,2 @@
-# Analysis-of-Heart-Disease-Datase
+# Heart_Disease_EDA
+Data analysis with Python Project 3
